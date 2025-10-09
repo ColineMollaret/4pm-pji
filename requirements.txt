@@ -1,2 +1,4 @@
 pandas
 matplotlib==3.7.0
+reda
+pygimli=1.4.4
