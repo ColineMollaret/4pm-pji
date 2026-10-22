@@ -23,7 +23,7 @@ rste =  0.001 # in seconds (i.e. 0.003 = 3 ms)
 ### Individual INVERSION SETTINGS #########
 # ERT
 zWeighte = 0.25 # zWeight ERT  relative weight for vertical boundaries
-lame =     10    # lambda ERT (~10 - 50)
+lame =     100    # lambda ERT (~10 - 50)
 maxItere = 6    # ERT Maximum number of Iteration
 
 # RST
